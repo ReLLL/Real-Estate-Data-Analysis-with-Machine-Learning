@@ -1,6 +1,6 @@
 # Real-Estate-Data-Analysis-with-Machine-Learning
 
-This is project to do real-estate analysis on the data scraped from a class-ads site.
+This project does real-estate analysis on the data scraped from a class-ads site.
 * Mainly tries to find out square meter prices and any outliers (bargain real estate objects?) grouped by neighboorhood.
 * Corrolation analysis on real estate paramaters. 
 
