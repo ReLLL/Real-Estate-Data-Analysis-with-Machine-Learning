@@ -5,7 +5,7 @@ This project does real-estate analysis on the data scraped from a class-ads site
 * Corrolation analysis on real estate paramaters. 
 
 Used Python, Pandas, Sklearn (sci-kit learn)
-Data: sahibinden.com Antalya Emlak
+Data: Antalya Emlak
 
 Example images from some of the analysis included in the Jupyter Notebook
 
